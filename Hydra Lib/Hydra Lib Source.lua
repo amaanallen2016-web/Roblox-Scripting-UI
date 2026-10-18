@@ -430,7 +430,7 @@ local function getObjGen()
             Gui.DropShadow_2.Position = UDim2.new(0.5, 0, 0.5, 0)
             Gui.DropShadow_2.Size = UDim2.new(1, 30, 1, 30)
             Gui.DropShadow_2.ZIndex = 109
-            Gui.DropShadow_2.Image = "rbxassetid://6014261993"
+            Gui.DropShadow_2.Image = "rbxassetid://113145740731924"
             Gui.DropShadow_2.ImageColor3 = Color3.fromRGB(0, 0, 0)
             Gui.DropShadow_2.ImageTransparency = 0.500
             Gui.DropShadow_2.ScaleType = Enum.ScaleType.Slice
@@ -616,7 +616,7 @@ local function getObjGen()
             Gui.Text_4.BackgroundTransparency = 1.000
             Gui.Text_4.Size = UDim2.new(0.699999988, 0, 0.800000012, 0)
             Gui.Text_4.ZIndex = 110
-            Gui.Text_4.Image = "rbxassetid://7881709447"
+            Gui.Text_4.Image = "rbxassetid://113145740731924"
             Gui.Text_4.ImageColor3 = Color3.fromRGB(25, 25, 25)
             Gui.Text_4.ScaleType = Enum.ScaleType.Slice
             Gui.Text_4.SliceCenter = Rect.new(512, 512, 512, 512)
